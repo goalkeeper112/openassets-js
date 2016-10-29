@@ -1,5 +1,5 @@
 {
-  "name": "openassets",
+  "name": "openassets-js",
   "version": "0.1.1",
   "description": "JavaScript implementation of the Open Assets Protocol",
   "main": "index.js",
@@ -21,12 +21,12 @@
     "Smart",
     "Property"
   ],
-  "author": "Andrew Hart <hello@andrewfhart.com>",
+  "author": "Luis Fernando <lfbu.112@gmail.com>",
   "license": "Apache Software License Version 2",
   "bugs": {
-    "url": "https://github.com/andrewfhart/openassets/issues"
+    "url": "https://github.com/golkeer112/openassets/issues"
   },
-  "homepage": "https://github.com/andrewfhart/openassets",
+  "homepage": "https://github.com/goalkeeper112/openassets",
   "devDependencies": {
     "assert": "^1.1.2",
     "chai": "^1.9.2",
